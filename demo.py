@@ -1,1 +1,1 @@
-print(2)
+print("welcome to datamites")
